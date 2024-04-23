@@ -12,9 +12,9 @@ import {
 } from "react-icons/di";
 import {
   SiRedis,
-  SiFirebase,
   SiNextdotjs,
   SiPostgresql,
+  SiAmazonaws,
 } from "react-icons/si";
 
 function Techstack() {
@@ -52,6 +52,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAmazonaws />
       </Col>
     </Row>
   );
