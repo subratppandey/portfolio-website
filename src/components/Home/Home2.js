@@ -19,12 +19,11 @@ function Home2() {
              <span className="purple"> INTRODUCTION </span>
            </h1>
            <p className="home-about-body">
-             I am an aspiring software engineer with a keen passion for science and technology.
-             <br />
-             <br />I am fluent in classics like
+             I am an aspiring software engineer with a keen passion for science and technology. I am fluent in classics like
              <i>
-               <b className="purple"> Python, Java, Javascript, Django, Flask, React.js, Node.js, C#. </b>
+               <b className="purple"> Python, Java, Javascript, Django, & Flask. </b>
              </i>
+             I have a good command over Angular and TypeScript.
              <br />
              <br />
              I am passionate in&nbsp;
