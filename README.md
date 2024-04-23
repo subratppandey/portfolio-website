@@ -18,21 +18,6 @@
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
 This project was built using these technologies.
 
 - React.js
@@ -40,7 +25,6 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-- Vercel
 
 ## Features
 
@@ -52,7 +36,7 @@ This project was built using these technologies.
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+You will need `node.js` and `git` installed globally on your machine. Clone down if you want to use the layout.
 
 ## 🛠 Installation and Setup Instructions
 
