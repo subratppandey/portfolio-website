@@ -18,13 +18,13 @@ This project was built using these technologies.
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
 
 **📱 Fully Responsive**
 
 ## Getting Started
 
-You will need `node.js` and `git` installed globally on your machine. Clone down if you want to use the layout.
+You will need `node.js` and `git` installed globally on your machine. Clone locally if you want to use this layout.
 
 ## 🛠 Installation and Setup Instructions
 
@@ -40,9 +40,3 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
