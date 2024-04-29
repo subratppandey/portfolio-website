@@ -14,6 +14,7 @@ import {
 
 
 import { CgFileDocument } from "react-icons/cg";
+import { FaBlog } from 'react-icons/fa'; 
 
 
 function NavBar() {
@@ -95,6 +96,15 @@ function NavBar() {
              </Nav.Link>
            </Nav.Item>
 
+           <Nav.Item>
+             <Nav.Link
+               as={Link}
+               to="/blog"
+               onClick={() => updateExpanded(false)}
+             >
+               <FaBlog style={{ marginBottom: "2px" }} /> Blog
+             </Nav.Link>
+           </Nav.Item>
 
            <Nav.Item className="fork-btn">
              <Button
