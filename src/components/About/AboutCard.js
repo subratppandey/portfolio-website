@@ -8,11 +8,13 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi, I am <span className="purple">Subrat Pandey, age 23.</span>
+            Hi, I am <span className="purple">Subrat Pandey, age 24.</span>
             <br />
-            I am a senior at the illustrious Fisk University located in Nashville, TN, USA.
+            I am a graduate in Computer Science from Fisk University located in Nashville, TN, USA.
             <br />
-            A passionate developer, I am a 2X software engineering intern at Google.
+            A passionate developer, I am a 2X software engineering intern at Google, ML researcher at Capital One, and a Full-Stack Software Developer at Algorizin, Inc.
+            <br />
+            I am an IBM-certified professional AI developer with knowledge in AI tools, RAG, LangChain, OpenAI, and Machine Learning.
             <br />
             <br />
           </p>
@@ -20,7 +22,7 @@ function AboutCard() {
           <div className="achievements-section">
             <span className="purple">Notable Achievements</span><br /><br />
             <ul>
-              <li>Undergrad GPA: 3.94/4.0</li>
+              <li>Undergrad GPA: 3.95/4.0</li>
               <li>U.S National Champion at HBCU Battle of the Brains 2024</li>
               <li>2nd Position at Equinix Fisk Hackathon</li>
               <li>2nd Position at Zillow HBCU Hackathon</li>
