@@ -14,8 +14,6 @@ import {
 
 
 import { CgFileDocument } from "react-icons/cg";
-import { FaBlog } from 'react-icons/fa'; 
-
 
 function NavBar() {
  const [expand, updateExpanded] = useState(false);
