@@ -10,7 +10,7 @@ function Type() {
        strings: [
          "Software Developer",
          "Full-Stack Engineer",
-         "Machine Learning Enthusiast",
+         "Machine Learning Researcher",
          "Open Source Contributor",
        ],
        autoStart: true,
