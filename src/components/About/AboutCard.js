@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi, I am <span className="purple">Subrat Pandey, age 24.</span>
             <br />
-            I am a graduate in Computer Science from Fisk University located in Nashville, TN, USA.
+            I am a graduate in Bachelor's of Computer Science from Fisk University located in Nashville, TN, USA.
             <br />
             A passionate developer, I am a 2X software engineering intern at Google, ML researcher at Capital One, and a Full-Stack Software Developer at Algorizin, Inc.
             <br />
@@ -42,13 +42,13 @@ function AboutCard() {
                 <ImPointRight /> Playing Outdoor Sports
               </li>
               <li className="about-activity">
-                <ImPointRight /> Writing Poetry and Non-Fiction
+                <ImPointRight /> Writing Poetry
               </li>
               <li className="about-activity">
                 <ImPointRight /> Mixed-Martial Arts
               </li>
               <li className="about-activity">
-                <ImPointRight /> Travelling
+                <ImPointRight /> Traveling
               </li>
             </ul>
           </div>
