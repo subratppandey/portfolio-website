@@ -21,7 +21,7 @@ function Home2() {
            <p className="home-about-body">
              I am an aspiring software engineer who loves science and technology. I am strong in
              <i>
-               <b className="purple"> Python, Java, JavaScript, OpenAI, LangChain, RAG, Prompt Engineering, C#, and SQL Server.</b>
+               <b className="purple"> Python, Java, JavaScript, OpenAI, LangChain, RAG, Prompt Engineering, C#, and SQL Server.</b>&nbsp;
              </i>
              I have a good command over TypeScript, Flask, FastAPI, and SpringBoot.
              <br />
